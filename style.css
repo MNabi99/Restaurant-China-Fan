@@ -538,8 +538,12 @@ body {
   .logo {
     position: absolute;
     top: 5px;
-    right: 10px;
+    right: 25px;
     font-size: 2rem;
+  }
+  #home{
+    font-size: medium;
+    color: #16a083;
   }
 
   .navbar-container input[type="checkbox"]:checked ~ .menu-items {
@@ -618,7 +622,7 @@ body {
   .logo {
     position: absolute;
     top: 06px;
-    right: 10px;
+    right: 25px;
     font-size: 3rem;
   }
 
